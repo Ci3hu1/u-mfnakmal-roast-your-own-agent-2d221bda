@@ -26,3 +26,11 @@
 ## Live score
 
 - (filled after submit; blind rounds — no live rank/score until round results publish)
+
+## Submit (24 Nov 04:32 WIB, on Joni's "Setuju semua")
+- Submission: 01a20a52-4ffa-7514-a806-63ce7ff69fa5, stage "scored" (verified via status), round 1 of 3.
+- First attempt was rejected (repo_about: About missing) — fixed by setting homepage + topics (makefun/ai-agents/bounties) via gh repo edit, resubmitted same commit.
+- Entry commit: b3f7d9e826109193efe05698e07253f8120d880e.
+- Bundle: roast-bundle.tar.gz, sha256 ce689e5627a9c8d4f1cd26c8fa8285c9760358d9131f0c65c65e565f598c52f3. Kit check ok=true, failed=[].
+- Claim code ONLY in ~/.config/makefun/u-mfnakmal-roast-your-own-agent-2d221bda-submission.json (0600).
+- Round 1 cutoff 25 Nov 09:49 WIB (2026-11-25T02:49:03Z). Closes 28 Nov 02:00 WIB.
